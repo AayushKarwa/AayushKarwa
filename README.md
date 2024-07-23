@@ -2,7 +2,7 @@
 <h3 align="center">A passionate learner from India<br>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9BF753&center=true&random=true&width=435&lines=Full+Stack+Web+Developer;Web3;MERN;DevOps" alt="Typing SVG" /></a>
 </h3>
-<p align="centre"> <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47d1lt6j5cr3bvg8r9t9m3ldxhlg4pzapgha0j9mi9&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt=""></p>
+<p align="right"> <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47d1lt6j5cr3bvg8r9t9m3ldxhlg4pzapgha0j9mi9&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt=""></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushkarwa&label=Profile%20views&color=0e75b6&style=flat" alt="aayushkarwa" /> </p>
 
