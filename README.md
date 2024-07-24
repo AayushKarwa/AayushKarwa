@@ -14,6 +14,7 @@
   - 📫 How to reach me <b>Aayushkarwa.work@gmail.com</b><br>
   - ⚡ Fun fact <b>Schrodinger's catto is still alive....</b>
 </div>
+<br>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
