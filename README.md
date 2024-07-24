@@ -104,15 +104,20 @@
   <img src="https://camo.githubusercontent.com/5b82ab048b0df63eacae2d9ddfef390c9d09abb789e236f961dc8abfb96d4a9a/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d7472616e73706172656e74" alt="aayushkarwa" />
 </div>
 
+
 <h3 align="center">Connect with me:</h3>
+<br>
 <p align="center">
   <a href="https://twitter.com/ayushh_tw" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushh_tw" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/aayush-karwa/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aayush-karwa/" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayush-karwa" height="30" width="40" />
   </a>
   <a href="https://instagram.com/aayush.karwa" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aayush.karwa" height="30" width="40" />
+  </a>
+  <a href="mailto:Aayushkarwa.work@gmail.com" target="blank">
+    <img align="center" src="https://github.com/samarjit-sahoo/samarjit-sahoo/blob/main/assets/gmail.png?raw=true" alt="Aayushkarwa.work@gmail.com" height="30" width="40" />
   </a>
 </p>
