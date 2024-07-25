@@ -119,6 +119,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aayush.karwa" height="30" width="40" />
   </a>
   <a href="mailto:Aayushkarwa.work@gmail.com" target="blank">
-    <img align="center" src="https://github.com/samarjit-sahoo/samarjit-sahoo/blob/main/assets/gmail.png?raw=true" alt="Aayushkarwa.work@gmail.com" height="30" width="40" />
+    <img align="center" src="https://github.com/AayushKarwa/AayushKarwa/blob/main/assests/gmail.png?raw=true" alt="Aayushkarwa.work@gmail.com" height="30" width="40" />
   </a>
 </p>
