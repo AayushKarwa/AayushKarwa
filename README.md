@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Karwa</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 <div align="center">
- <img src="https://github.com/AayushKarwa/AayushKarwa/raw/main/assets/coding.gif" alt="Coding GIF" />
+ <img src="https://github.com/AayushKarwa/AayushKarwa/blob/main/assests/coding.gif" alt="Coding GIF" />
 
 </div>
 <h3 align="center">My Interests!</h3>
