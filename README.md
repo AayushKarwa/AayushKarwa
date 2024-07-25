@@ -109,6 +109,9 @@
 <h3 align="center">Connect with me:</h3>
 <br>
 <p align="center">
+<a href="https://linktr.ee/AayushKarwa" target="blank">
+    <img align="center" src="" alt="@Aayushkarwa" height="30" width="40" />
+  </a>
   <a href="https://twitter.com/ayushh_tw" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushh_tw" height="30" width="40" />
   </a>
@@ -121,4 +124,6 @@
   <a href="mailto:Aayushkarwa.work@gmail.com" target="blank">
     <img align="center" src="https://github.com/AayushKarwa/AayushKarwa/blob/main/assests/gmail.png?raw=true" alt="Aayushkarwa.work@gmail.com" height="30" width="40" />
   </a>
+  
+  
 </p>
