@@ -6,7 +6,7 @@
 </div>
 <h3 align="center">My Interests!</h3>
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&center=true&vCenter=true&width=435&lines=Web3;Deep+learning;Machine+learning;Artificial+Intelligence+;DevOps;Data+Science;MERN+stack" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=250&center=true&vCenter=true&random=true&width=435&lines=NLP;Generative+AI;Web3;Data+Science;Web+Development;Deep+learning;Machine+Learning;Blockchain" alt="Typing SVG" />
 </div>
 
 <div align="center">
