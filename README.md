@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Karwa</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">Full Stack AI Developer</h3>
 <div align="center">
  <img src="https://github.com/AayushKarwa/AayushKarwa/blob/main/assests/coding.gif" alt="Coding GIF" />
 
