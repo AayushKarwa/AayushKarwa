@@ -11,7 +11,7 @@
 
 <div align="center">
   - 🔭 I’m currently working on <b> private projects</b><br>
-  - 🌱 I’m currently learning <b>Web3, DevOps, Briwser API's</b><br>
+  - 🌱 I’m currently learning <b>Web3, DevOps, Browser API's</b><br>
   - 📫 How to reach me <b><a href="mailto:Aayushkarwa.work@gmail.com">Aayushkarwa.work@gmail.com</b></a><br>
   - ⚡ Fun fact <b>Schrodinger's catto is still alive....</b>
 </div>
